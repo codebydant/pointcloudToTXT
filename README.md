@@ -22,8 +22,8 @@ in the main folder:
 ### Test
 
 	cd /build
-	./pointcloudToTXT <pcd file> 
-  	./pointcloudToTXT <ply file> 
+	./pointcloudToTXT <pcd file> -o <output dir>
+  	./pointcloudToTXT <ply file> -o <output dir>
 
   
 
