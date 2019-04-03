@@ -22,8 +22,8 @@ in the main folder:
 ### Test
 
 	cd /build
-	./pcl-visualizer <pcd file> 
-  	./pcl-visualizer <ply file> 
+	./pointcloudToTXT <pcd file> 
+  	./pointcloudToTXT <ply file> 
 
   
 
