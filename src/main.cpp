@@ -17,7 +17,7 @@
 
 void printUsage (const char* progName){
   std::cout << "\nUse: " << progName << " <file> -o <output dir>"  << std::endl <<
-               "support: .pcd .ply .txt .xyz" << std::endl <<
+               "support: .pcd .ply" << std::endl <<
                "[q] to exit" << std::endl;
 }
 
