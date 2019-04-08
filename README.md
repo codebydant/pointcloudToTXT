@@ -4,7 +4,7 @@ convert a pcl point cloud into txt format
 ----------------------
 This program convert a point cloud into .txt file  <br />
 
-## In file structure 
+## Input file structure 
 
 * .pcd
 * .ply 
