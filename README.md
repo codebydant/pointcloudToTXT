@@ -8,6 +8,11 @@ Support the next extension:
 * PCD 
 * PLY 
 
+## Output file structure 
+* point_cloud.txt: 
+
+        x y z r g b
+
 ## Compilation
 * Set "YOUR OWN" PCL Build DIR in CMakeList.txt e.g: **/opt/pcl-1.8.1/build** and save it.
 * Create a "build" folder
