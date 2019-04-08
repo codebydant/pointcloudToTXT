@@ -2,7 +2,7 @@
 convert a pcl point cloud into txt format
 
 ----------------------
-This program convert a point cloud into .txt file
+This program convert a point cloud into .txt file  <br />
 Support the next extension:
 
 * PCD 
