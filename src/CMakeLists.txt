@@ -6,6 +6,9 @@ cmake_minimum_required(VERSION 3.5.1 FATAL_ERROR)
 # set project name
 project(pointcloudToTXT VERSION 1.0.0)
 
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
 # set build type = Debug mode
 set(CMAKE_BUILD_TYPE Release)
 
